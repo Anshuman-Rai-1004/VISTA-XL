@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn[standard]
+python-multipart
+numpy
+Pillow
+torch
+timm
+xlstm==2.0.6
+mlstm-kernels==2.0.6
