@@ -8,7 +8,10 @@ checkpoints/
 *.pth
 *.pt
 data/
+Dataset/
 results/
 runs/
 .DS_Store
 Thumbs.db
+
+unet_checkpoint.zip
